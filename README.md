@@ -1,2 +1,2 @@
 # School_Projects_1
-A collection of projects created during my time at LBCC
+One of my first programs in 2018. It was created during my time at LBCC
